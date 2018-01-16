@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/wolfman2g1/fleet-fit/issues"
   },
-  "homepage": "https://github.com/wolfman2g1/fleet-fit#readme"
+  "homepage": "https://github.com/wolfman2g1/fleet-fit#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "request": "^2.83.0"
+  }
 }
