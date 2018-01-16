@@ -1,0 +1,24 @@
+{
+  "name": "fleet-fit",
+  "version": "1.0.0",
+  "description": "fleet up bot for discord ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfman2g1/fleet-fit.git"
+  },
+  "keywords": [
+    "discord",
+    "fleet-up",
+    "eveonline"
+  ],
+  "author": "Ryan Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfman2g1/fleet-fit/issues"
+  },
+  "homepage": "https://github.com/wolfman2g1/fleet-fit#readme"
+}
